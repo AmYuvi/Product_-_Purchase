@@ -1,0 +1,6 @@
+const number = Number(100000 + Math.random() * 900000)
+let otp = Math.floor(number)
+console.log(otp)
+var date = new Date()
+// var obj = d.getHours().getMinutes().getSeconds()
+console.log(date)
